@@ -1,1 +1,1 @@
-# .github
+# moonna studios GitHub organization
